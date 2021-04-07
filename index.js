@@ -63,7 +63,7 @@ var hScores =
    score : "4",
  }, 
  {
-   name : "Ashwini",
+   name : "Vidya",
    score :"2",
  }
 ]

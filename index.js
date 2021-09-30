@@ -28,7 +28,11 @@ var questions =
  {
    question : "4] Which is my favorite color? ",
    answer :"Blue",
- }
+ },
+ {
+  question : "5] What is my current goal? ",
+  answer :"NeoG Camp Level One",
+}
 ];
 
 //declaring function  
